@@ -1,0 +1,19 @@
+*
+# Github Directory
+!/.github/
+!/.github/workflows/
+!/.github/workflows/ci.yml
+
+# VS Code settings
+!/.vscode/
+!/.vscode/settings.json
+
+# Blog posts
+!/posts/
+!/posts/assets/
+!/posts/assets/**
+!/posts/**/*.md
+
+# Configuration
+!/deno.json
+!/main.ts
